@@ -23,5 +23,5 @@ terraform {
 
 resource "azurerm_resource_group" "example" {
   name     = "rg-farl3g-test-1"
-  location = "westeurope"
+  location = "denmarkeast"
 }
